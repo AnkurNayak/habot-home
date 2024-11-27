@@ -1,0 +1,17 @@
+/* Themes */
+body.light,
+body .light {
+  --primary: #123557;
+  --secondary: #eb7150;
+  --accent: #00732f;
+  --primary-text: #000000;
+  --secondary-text: #222222;
+  --accent-text: #6d6e71;
+  --icon: #6d6e71;
+  --card: #e8fbff;
+}
+
+/* Dark : required ? */
+body.dark,
+body .dark {
+}
